@@ -8,26 +8,30 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ANTRUMEYE&label=Profile%20views&color=0e75b6&style=flat" alt="Mrityunjay Yadav" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antrumeye" alt="antrumeye" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/antrumeye" target="blank"><img src="https://img.shields.io/twitter/follow/antrumeye?logo=twitter&style=for-the-badge" alt="antrumeye" /></a> </p>
 
 
-- 🔭 I’m currently working on [sykoexpert website](https://antrumeye.github.io/CV/)
+- 🔭 I’m currently working on [sykoexpert website](https://github.com/ANTRUMEYE)
 
-- 🌱 I’m currently learning **React, Angular**
+- 🌱 I’m currently learning **JavaScript, React, Angular**
 
-- 👯 I’m looking to collaborate on **ONLINE FOOD SERVICES WEBSITE**
+- 👯 I’m looking to collaborate on [ONLINE FOOD SERVICES WEBSITE](https://github.com/ANTRUMEYE)
 
-- 👨‍💻 All of my projects are available at [MRITYUNJAY-YADAV]()
+- 👨‍💻 All of my projects are available at [MRITYUNJAY-YADAV](https://github.com/ANTRUMEYE)
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/mrityunjay-yadav-545b41237/)
 
 - 💬 Ask me about ** HTML, CSS, JavaScript, PHP, React, Bootstrap **
 
+- 📄 Know about my experiences [https://github.com/CV](https://github.com/CV)
+
 - 📫 How to reach me **mrityunjayyadav1103@gmail.com**
 
 - ⚡ Fun fact **I Think I'm Creative.**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antrumeye" alt="antrumeye" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,6 +48,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ANTRUMEYE&show_icons=true&locale=en" alt="ANTRUM EYE" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ANTRUMEYE&" alt="ANTRUM EYE" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antrumeye&show_icons=true&locale=en&layout=compact" alt="antrumeye" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antrumeye&show_icons=true&locale=en" alt="antrumeye" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antrumeye&" alt="antrumeye" /></p>
 ---------------------------
 <h1 align="center">Hi 👋, I'm Mrityunjay Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
