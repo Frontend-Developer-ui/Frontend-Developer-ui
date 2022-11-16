@@ -8,6 +8,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ANTRUMEYE&label=Profile%20views&color=0e75b6&style=flat" alt="Mrityunjay Yadav" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=antrumeye&label=Profile%20views&color=0e75b6&style=flat" alt="antrumeye" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antrumeye" alt="antrumeye" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/antrumeye" target="blank"><img src="https://img.shields.io/twitter/follow/antrumeye?logo=twitter&style=for-the-badge" alt="antrumeye" /></a> </p>
+
+
 - 🔭 I’m currently working on [sykoexpert website](https://antrumeye.github.io/CV/)
 
 - 🌱 I’m currently learning **React, Angular**
