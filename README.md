@@ -25,7 +25,7 @@
 
 - 💬 Ask me about ** HTML, CSS, JavaScript, PHP, React, Bootstrap **
 
-- 📄 Know about my experiences [https://antrumeye.github.io/portfolio/](https://antrumeye.github.io/portfolio/)
+- 📄 Know about my experiences [PORTFOLIO WEBSITE]( https://antrumeye.github.io/Portfolio-Website/)
 
 - 📫 How to reach me **mrityunjayyadav1103@gmail.com**
 
