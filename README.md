@@ -31,6 +31,8 @@
 
 - 📫 How to reach me **mrityunjayyadav1103@gmail.com**
 
+- 📫 My Latest Blog[sykoexpert](http://sykoexpert.wordpress.com)
+
 - ⚡ Fun fact **I Think I'm Creative.**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antrumeye" alt="antrumeye" /></a> </p>
