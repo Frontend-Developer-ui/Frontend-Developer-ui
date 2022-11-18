@@ -31,7 +31,7 @@
 
 - 📫 How to reach me **mrityunjayyadav1103@gmail.com**
 
-- 📫 My Latest Blog[sykoexpert](http://sykoexpert.wordpress.com)
+- 📫 My Latest Blogs [sykoexpert](http://sykoexpert.wordpress.com)
 
 - ⚡ Fun fact **I Think I'm Creative.**
 
