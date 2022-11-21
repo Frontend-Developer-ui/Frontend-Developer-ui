@@ -46,7 +46,7 @@
 |---|---|---|
 |![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ANTRUMEYE&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ANTRUMEYE&theme=github_dark)|![bylickilabs's Stats](https://github-readme-stats.vercel.app/api?username=ANTRUMEYE&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)|
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antrumeye" alt="antrumeye" /></a> </p>
+<p align="left"> <a href="https://github.com/ANTRUMEYE/-Github-Profile-Trophy"><img src="https://github-profile-trophy.vercel.app/?username=ANTRUMEYE" alt="ANTRUMEYE" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
