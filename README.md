@@ -39,7 +39,8 @@
 - ⚡ Fun fact **I Think I'm Creative.**
 
 ---------------------------
-# Statistics
+<h2 style="color: #44AEFB">📊 Statistics</h2>
+
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 
 |![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ANTRUMEYE&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ANTRUMEYE&theme=github_dark&utcOffset=8)|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ANTRUMEYE&theme=github_dark)|
