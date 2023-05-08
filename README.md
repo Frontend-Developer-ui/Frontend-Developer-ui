@@ -28,7 +28,7 @@
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/mrityunjay-yadav-545b41237/)
 
-- 💬 Ask me about ** HTML, CSS, JavaScript, React, Bootstrap **
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Bootstrap**
 
 - 📄 Know about my experiences [PORTFOLIO WEBSITE]( https://antrumeye.github.io/PORTFOLIO-WEBSITE/)
 
