@@ -1,4 +1,4 @@
-# MRITYUNJAY-YADAV
+# MRITYUNJAY-YADAV < ANTRUM EYE >
 
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
@@ -20,19 +20,19 @@
 
 - 🔭 I’m currently working on [sykoexpert website](https://github.com/ANTRUMEYE)
 
-- 🌱 I’m currently learning **JavaScript, React, Angular**
+- 🌱 I’m currently learning **JavaScript, React, UI / UX**
 
-- 👯 I’m looking to collaborate on [ONLINE FOOD SERVICES WEBSITE](https://github.com/ANTRUMEYE)
+- 👯 I’m looking to collaborate on [ONLINE IDE (CODE EDITOR) WEBSITE](https://github.com/ANTRUMEYE)
 
 - 👨‍💻 All of my projects are available at [MRITYUNJAY-YADAV](https://github.com/ANTRUMEYE)
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/mrityunjay-yadav-545b41237/)
 
-- 💬 Ask me about ** HTML, CSS, JavaScript, PHP, React, Bootstrap **
+- 💬 Ask me about ** HTML, CSS, JavaScript, React, Bootstrap **
 
 - 📄 Know about my experiences [PORTFOLIO WEBSITE]( https://antrumeye.github.io/PORTFOLIO-WEBSITE/)
 
-- 📫 How to reach me **mrityunjayyadav1103@gmail.com**
+- 📫 How to reach me **antrumeye@gmail.com**
 
 - 📫 My Latest Blogs [sykoexpert](http://sykoexpert.wordpress.com)
 
