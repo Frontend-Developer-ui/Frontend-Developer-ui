@@ -18,23 +18,23 @@
 <p align="left"> <a href="https://twitter.com/antrumeye" target="blank"><img src="https://img.shields.io/twitter/follow/antrumeye?logo=twitter&style=for-the-badge" alt="antrumeye" /></a> </p>
 
 
-- 🔭 I’m currently working on [sykoexpert website](https://github.com/ANTRUMEYE)
+<!--- 🔭 I’m currently working on [sykoexpert website](https://github.com/ANTRUMEYE)-->
 
-- 🌱 I’m currently learning **JavaScript, React, UI / UX**
+- 🌱 I’m currently learning **JavaScript, UX**
 
-- 👯 I’m looking to collaborate on [ONLINE IDE (CODE EDITOR) WEBSITE](https://github.com/ANTRUMEYE)
+<!--- 👯 I’m looking to collaborate on [ONLINE IDE (CODE EDITOR) WEBSITE](https://github.com/ANTRUMEYE)-->
 
 - 👨‍💻 All of my projects are available at [MRITYUNJAY-YADAV](https://github.com/ANTRUMEYE)
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/mrityunjay-yadav-545b41237/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Bootstrap**
+- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap**
 
 - 📄 Know about my experiences [PORTFOLIO WEBSITE]( https://antrumeye.github.io/PORTFOLIO-WEBSITE/)
 
 - 📫 How to reach me **antrumeye@gmail.com**
 
-- 📫 My Latest Blogs [sykoexpert](http://sykoexpert.wordpress.com)
+- 📫 My Latest Blogs [ANTRUMEYE](https://medium.com/@antrumeye)
 
 - ⚡ Fun fact **I Think I'm Creative.**
 
