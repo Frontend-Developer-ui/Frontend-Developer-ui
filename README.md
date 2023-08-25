@@ -15,7 +15,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/antrumeye" target="blank"><img src="https://img.shields.io/twitter/follow/antrumeye?logo=twitter&style=for-the-badge" alt="antrumeye" /></a> </p>
+<p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/Frontend-Developer-ui?logo=twitter&style=for-the-badge" alt="Frontend-Developer-ui" /></a> </p>
 
 
 <!--- 🔭 I’m currently working on [sykoexpert website](https://github.com/ANTRUMEYE)-->
@@ -43,15 +43,15 @@
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 
-|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ANTRUMEYE&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ANTRUMEYE&theme=github_dark&utcOffset=8)|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ANTRUMEYE&theme=github_dark)|
+|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Frontend-Developer-ui&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Frontend-Developer-ui&theme=github_dark&utcOffset=8)|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Frontend-Developer-ui&theme=github_dark)|
 |---|---|---|
-|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ANTRUMEYE&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ANTRUMEYE&theme=github_dark)|![bylickilabs's Stats](https://github-readme-stats.vercel.app/api?username=Frontend-Developer-ui&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)|
+|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Frontend-Developer-ui&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Frontend-Developer-ui&theme=github_dark)|![bylickilabs's Stats](https://github-readme-stats.vercel.app/api?username=Frontend-Developer-ui&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)|
 
-<p align="left"> <a href="https://github.com/ANTRUMEYE/-Github-Profile-Trophy"><img src="https://github-profile-trophy.vercel.app/?username=Frontend-Developer-ui" alt="Frontend-Developer-uiFrontend-Developer-ui" /></a> </p>
+<p align="left"> <a href="https://github.com/Frontend-Developer-ui/-Github-Profile-Trophy"><img src="https://github-profile-trophy.vercel.app/?username=Frontend-Developer-ui" alt="Frontend-Developer-uiFrontend-Developer-ui" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="antrumeye" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Frontend-Developer-ui" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mrityunjay-yadav-545b41237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mrityunjay-yadav-545b41237/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc7y0ffxx1dyhbd5jjvyqkza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc7y0ffxx1dyhbd5jjvyqkza" height="30" width="40" /></a>
 </p>
