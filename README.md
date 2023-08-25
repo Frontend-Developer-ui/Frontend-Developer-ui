@@ -32,7 +32,7 @@
 
 - 📄 Know about my experiences [PORTFOLIO WEBSITE]( https://antrumeye.github.io/PORTFOLIO-WEBSITE/)
 
-- 📫 How to reach me **antrumeye@gmail.com**
+- 📫 How to reach me **mrityunjayyadav1103@gmail.com**
 
 - 📫 My Latest Blogs [ANTRUMEYE](https://medium.com/@antrumeye)
 
