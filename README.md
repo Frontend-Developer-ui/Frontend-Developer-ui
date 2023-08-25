@@ -1,4 +1,4 @@
-# MRITYUNJAY-YADAV < ANTRUM EYE >
+# MRITYUNJAY YADAV 
 
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
@@ -11,7 +11,7 @@
 <h3 align="center">A multidisciplinary Frontend Developer from Uttar Pradesh, India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ANTRUMEYE&label=Profile%20views&color=0e75b6&style=flat" alt="Mrityunjay Yadav" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Frontend-Developer-ui&label=Profile%20views&color=0e75b6&style=flat" alt="Mrityunjay Yadav" /> </p>
 
 
 
@@ -22,9 +22,9 @@
 
 - 🌱 I’m currently learning **JavaScript, UX**
 
-<!--- 👯 I’m looking to collaborate on [ONLINE IDE (CODE EDITOR) WEBSITE](https://github.com/ANTRUMEYE)-->
+<!--- 👯 I’m looking to collaborate on [ONLINE IDE (CODE EDITOR) WEBSITE]([https://github.com/ANTRUMEYE](https://github.com/Frontend-Developer-ui))-->
 
-- 👨‍💻 All of my projects are available at [MRITYUNJAY-YADAV](https://github.com/ANTRUMEYE)
+- 👨‍💻 All of my projects are available at [MRITYUNJAY-YADAV]([https://github.com/ANTRUMEYE](https://github.com/Frontend-Developer-ui))
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/mrityunjay-yadav-545b41237/)
 
@@ -45,13 +45,13 @@
 
 |![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ANTRUMEYE&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ANTRUMEYE&theme=github_dark&utcOffset=8)|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ANTRUMEYE&theme=github_dark)|
 |---|---|---|
-|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ANTRUMEYE&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ANTRUMEYE&theme=github_dark)|![bylickilabs's Stats](https://github-readme-stats.vercel.app/api?username=ANTRUMEYE&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)|
+|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ANTRUMEYE&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ANTRUMEYE&theme=github_dark)|![bylickilabs's Stats](https://github-readme-stats.vercel.app/api?username=Frontend-Developer-ui&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)|
 
-<p align="left"> <a href="https://github.com/ANTRUMEYE/-Github-Profile-Trophy"><img src="https://github-profile-trophy.vercel.app/?username=ANTRUMEYE" alt="ANTRUMEYE" /></a> </p>
+<p align="left"> <a href="https://github.com/ANTRUMEYE/-Github-Profile-Trophy"><img src="https://github-profile-trophy.vercel.app/?username=Frontend-Developer-ui" alt="Frontend-Developer-uiFrontend-Developer-ui" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/antrumeye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="antrumeye" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="antrumeye" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mrityunjay-yadav-545b41237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mrityunjay-yadav-545b41237/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc7y0ffxx1dyhbd5jjvyqkza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc7y0ffxx1dyhbd5jjvyqkza" height="30" width="40" /></a>
 </p>
