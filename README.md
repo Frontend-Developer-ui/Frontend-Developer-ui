@@ -53,7 +53,7 @@
 <p align="left">
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Frontend-Developer-ui" height="30" width="40" /></a>
 <a href="[https://linkedin.com/in/https://www.linkedin.com/in/mrityunjay-yadav-545b41237/](https://www.linkedin.com/in/mrityunjay-yadav-477aa224a/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mrityunjay-yadav-545b41237/" height="30" width="40" /></a>
-<a href="[https://www.youtube.com/c/https://www.youtube.com/channel/uc7y0ffxx1dyhbd5jjvyqkza](https://www.youtube.com/channel/UC7Y0ffxX1DyhbD5JJVyQKZA)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc7y0ffxx1dyhbd5jjvyqkza" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC7Y0ffxX1DyhbD5JJVyQKZA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UC7Y0ffxX1DyhbD5JJVyQKZA" height="30" width="40" /></a>
 </p>
 
 <!-- Languages and Tools -->
