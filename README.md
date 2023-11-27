@@ -34,7 +34,7 @@
 
 - 📫 How to reach me **mrityunjayyadav1103@gmail.com**
 
-- 📫 My Latest Blogs [ANTRUMEYE](https://medium.com/@antrumeye)
+- 📫 My Latest Blogs [MRITYUNJAY YADAV](https://medium.com/@antrumeye)
 
 - ⚡ Fun fact **I Think I'm Creative.**
 
